@@ -31,13 +31,6 @@ Chosen because it achieved the best test performance and gave strong interpretab
 
 ---
 
-## 📊 Results
-| Model | MAE | RMSE | R² |
-|------|-----|------|----|
-| Linear Regression | 	920296.224378 | 1.235086e+06 | 0.645774 |
-| Ridge (Tuned) | 917245.779532 | 	1.235350e+06 | 0.645622 |
-| Random Forest (Tuned) | 	937958.932851 | 1.271906e+06 | 0.624339 |
-
 ## 🧠 Tech Stack
 - Python
 - Pandas, NumPy
